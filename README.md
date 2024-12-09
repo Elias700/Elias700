@@ -1,6 +1,6 @@
 
 
-<h3 align="left">👋 Oi, me chamo Elias!<br>📍 Moro em Salvador - BA.<br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º semestre).<br>💻 Apaixonado por tecnologia, estou focado em estudar desenvolvimento front-end, explorando tecnologias modernas para criar interfaces incríveis e responsivas.</h3>
+<h3 align="left">👋 Oi, me chamo Elias!<br>📍 Moro em Salvador - BA.<br> <br> 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º semestre).<br> <br> 💻 Apaixonado por tecnologia, estou focado em estudar desenvolvimento front-end, explorando tecnologias modernas para criar interfaces incríveis e responsivas.</h3>
 
 ###
 
