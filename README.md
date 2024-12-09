@@ -1,6 +1,18 @@
 
 
-<h3 align="left">👋 Oi, me chamo Elias!<br> <br> 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º semestre).<br> <br> 💻 Apaixonado por tecnologia, estou focado em estudar desenvolvimento front-end, explorando tecnologias modernas para criar interfaces incríveis e responsivas.</h3>
+<h1 align="left">👋 Hi, my name is Elias, I'm from Salvador - Ba.</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Desenvolvedor front-end<br><br>- Cursando Análise e Desenvolvimento de Sistemas</p>
+
+###
+
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -24,17 +36,30 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/elias-ribeiro-6640521a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
+<h2 align="left">Social Media</h2>
 
 ###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
- 
+###
+
+<h2 align="left">Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elias700&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elias700&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Elias700/Elias700/output/snake.svg" alt="Snake animation" />
+
+###
