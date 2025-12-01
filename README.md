@@ -4,7 +4,7 @@
 
 ---
 
-## 💻 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, funcionais e intuitivas. Busco sempre evoluir, aprender novas tecnologias e entregar projetos com qualidade, criatividade e bom desempenho. Construo interfaces aplicando princípios de **UX/UI** e boas práticas de desenvolvimento, transformando ideias em experiências visuais eficientes e responsivas.
 
@@ -30,11 +30,12 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
 ## Contatos
 
 <div align="left">
-  <a href="https://portfolio-peach-sigma-44.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&logo=Vercel&label=&color=00BFFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Botão de Portfólio" />
+  
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&logo=Globe&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Botão de Portfólio" />
   </a>
   <img width="10" />
-  
+
   <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
