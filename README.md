@@ -31,8 +31,8 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
 
 <div align="left">
   
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&logo=Globe&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Botão de Portfólio" />
+ <a href="https://portfolio-peach-sigma-44.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Botão de Portfólio" />
   </a>
   <img width="10" />
 
