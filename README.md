@@ -1,16 +1,10 @@
 <h1 align="left">👋 Hi, my name is Elias, I'm from Salvador - Ba.</h1>
 
-###
-
-<h2 align="left">About me</h2>
+Sou um desenvolvedor Front-end apaixonado por criar interfaces modernas, funcionais e intuitivas. Busco sempre evoluir, aprender novas tecnologias e entregar projetos com qualidade, criatividade e bom desempenho. Estou construindo uma trajetória sólida como Front-end Developer com visão de UX/UI, pronto para encarar desafios e transformar problemas em soluções visualmente eficientes.
 
 ###
 
-<p align="left">- Desenvolvedor front-end<br><br>- Cursando Análise e Desenvolvimento de Sistemas</p>
-
-###
-
-<h2 align="left">Techs</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
@@ -38,29 +32,29 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Contatos</h2>
 
 ###
 
 <div align="left">
-    <a href="elias_ribeiro07@outlook.com.br" target="_blank">
+
+    <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
     </a>
     <img width="10" />
+    
     <a href="https://www.linkedin.com/in/elias-ribeiro700/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
     </a>
+    <img width="10" />
+
+    <a href="https://seu-portfolio.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&logo=react&label=&color=00A000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
+    </a>
+
 </div>
 
-###
 
-<h2 align="left">Status</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elias700&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elias700&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
