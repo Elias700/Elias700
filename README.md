@@ -27,15 +27,10 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
 
 <br>
 
-## Contatos
+## 📬 Contatos
 
 <div align="left">
   
- <a href="https://portfolio-peach-sigma-44.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=MEU%20PORTFÓLIO&label=&color=555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Botão de Portfólio" />
-  </a>
-  <img width="10" />
-
   <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -44,6 +39,9 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
   <a href="https://www.linkedin.com/in/elias-ribeiro700/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <img width="10" />
+
+  **🌐 Portfólio:** [Acesse meu trabalho aqui!](https://seu-portfolio.com)
 </div>
 
 <picture>
