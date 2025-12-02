@@ -4,13 +4,13 @@
 
 <br>
 
-## 💻 Sobre Mim
+##  Sobre Mim
 
 Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, funcionais e intuitivas. Busco sempre evoluir, aprender novas tecnologias e entregar projetos com qualidade, criatividade e bom desempenho. Construo interfaces aplicando princípios de **UX/UI** e boas práticas de desenvolvimento, transformando ideias em experiências visuais eficientes e responsivas.
 
 <br>
 
-## 🛠️ Habilidades
+##  Habilidades
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5 Badge"/>
@@ -27,7 +27,7 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
 
 <br>
 
-## 📬 Contatos
+##  Contatos
 
 <div align="left">
   <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
