@@ -32,6 +32,8 @@ Sou um desenvolvedor **Front-end apaixonado** por criar interfaces modernas, fun
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" height="30" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30" alt="IntelliJ IDEA Badge"/>
+
 </div>
 
 <br>
