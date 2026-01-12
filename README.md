@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Elias Ribeiroa</h1>
+  <h1>Elias Ribeiro</h1>
 </div>
 
 <br>
