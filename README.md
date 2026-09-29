@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá, eu sou o Elias Ribeiro</h1>
+  <h1> Olá, me chamo Elias Ribeiro</h1>
   <p><b>Desenvolvedor Front-end | Estudando Angular & Java</b></p>
 </div>
 
@@ -32,7 +32,6 @@ Construo aplicações aplicando princípios de **UX/UI** e boas práticas de des
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/POO-4B0082?style=for-the-badge&logo=bookstack&logoColor=white" height="30" alt="POO Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL Badge"/>
 </div>
 
@@ -47,36 +46,22 @@ Construo aplicações aplicando princípios de **UX/UI** e boas práticas de des
 
 ---
 
-## Principais Projetos
-
-- 🏥 **[Meu Plantão](https://github.com/Elias700/meu-plantao):** Sistema para gestão de escalas e acompanhamento financeiro para profissionais de saúde (Angular 21 + Tailwind CSS + Angular Material).
-
----
-
 ## Conecte-se Comigo
 
 <div align="left">
-  <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=E-mail&logo=outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
+  <a href="mailto:elias_ribeiro07@outlook.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook logo" />
   </a>
-  <img width="5" />
-  <a href="https://www.linkedin.com/in/elias-ribeiro700/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/elias-ribeiro700/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
   </a>
   
   <br><br>
 
-  **Portfólio:** <a href="https://portfolio-peach-sigma-44.vercel.app/" target="_blank">**Acesse meu trabalho aqui!**</a>
+  <b>Portfólio:</b> <a href="https://portfolio-peach-sigma-44.vercel.app/" target="_blank" rel="noopener noreferrer">Acesse meu trabalho aqui!</a>
 </div>
 
 <br>
 
----
 
-### Gráfico de Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elias700/Elias700/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elias700/Elias700/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elias700/Elias700/output/pacman-contribution-graph.svg">
-</picture>
